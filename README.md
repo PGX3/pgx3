@@ -7,7 +7,7 @@
 ### 👨‍💻 Sobre mim  
 * 💡 Desenvolvedor de ideias — transformo conceitos em sistemas reais  
 * 👨‍🎓 Estudante do **Ensino Médio Técnico em Informática - IFSUL (4º ano)**  
-* 💻 Focado em **Laravel, React, PostgreSQL e Node.js**  
+* 💻 Focado em **Laravel, React, PostgreSQL, Node.js e java**  
 * 📸 Cofundador da agência **[Feitos & Lembranças]([https://github.com/pgx3/Feitos-Lembrancas](https://www.instagram.com/feitoselembrancas?igsh=djY0cmtvYjBueGhj))**  
 * ⚙️ Trabalhando em sistemas com propósito — como o site da **Igreja Despertar**  
 * ☕ Energia = café + propósito + código bem escrito  
