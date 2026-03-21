@@ -6,10 +6,8 @@
 
 ### 👨‍💻 Sobre mim  
 * 💡 Desenvolvedor de ideias — transformo conceitos em sistemas reais  
-* 👨‍🎓 Estudante do **Ensino Médio Técnico em Informática - IFSUL (4º ano)**  
-* 💻 Focado em **Laravel, React, PostgreSQL, Node.js e java**  
-* 📸 Cofundador da agência **[Feitos & Lembranças]([https://github.com/pgx3/Feitos-Lembrancas](https://www.instagram.com/feitoselembrancas?igsh=djY0cmtvYjBueGhj))**  
-* ⚙️ Trabalhando em sistemas com propósito — como o site da **Igreja Despertar**  
+* 👨‍🎓 Estudante do **Superior em Tecnologia em sistemas para internet - IFSUL (1º semestre**  
+* 💻 Focado em **Dados e Python**  
 * ☕ Energia = café + propósito + código bem escrito  
 
 ---
@@ -22,7 +20,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
