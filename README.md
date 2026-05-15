@@ -7,7 +7,7 @@
 ### 👨‍💻 Sobre mim  
 * 💡 Desenvolvedor de ideias — transformo conceitos em sistemas reais  
 * 👨‍🎓 Estudante do **Superior em Tecnologia em sistemas para internet - IFSUL (1º semestre**  
-* 💻 Focado em **Dados e Python**  
+* 💻 Focado em **Java**  
 * ☕ Energia = café + propósito + código bem escrito  
 
 ---
