@@ -58,7 +58,6 @@
 | 🧽 [WashStation](https://github.com/pgx3/WashStation) | 🧠 Em desenvolvimento | Laravel, React, PostgreSQL | Sistema SaaS de gestão para lava-rápidos com multiempresas, cargos e controle financeiro | Próprio |
 | 📸 [Feitos & Lembranças](https://github.com/pgx3/Feitos-Lembrancas) | ✅ Publicado | Laravel, TailwindCSS, JS | Site e sistema da agência criativa de fotografia e vídeo | Cofundador |
 | ⚽ [FutShark](https://github.com/pgx3/FutShark) | 🚧 Em progresso | React, Node.js, MongoDB | E-commerce esportivo moderno e responsivo | Próprio |
-| ⛪ [Despertar Site](https://github.com/pgx3/Despertar-Site) | 🚧 Em construção | Laravel, Blade | Site da Igreja Despertar com doações integradas e transparência financeira | Próprio |
 | 🧬 [DNA-RNA Simulator](https://github.com/pgx3/DNA-RNA) | ✅ Finalizado | JS, Bootstrap | Simulador biológico interativo para o projeto escolar | Próprio |
 
 ---
